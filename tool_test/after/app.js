@@ -158,4 +158,6 @@ jQuery逆引きマニュアル（インプレスジャパン）
 「４５分でBook検索アプリを作る」Ajaxと作り方を学ぶ
 Learn to Code: Using an API with Jquery and AJAX
 jQuery Ajax Tutorial #1 - Using AJAX & API's
+
+tool_test訂正、コメントにスペース
 */
